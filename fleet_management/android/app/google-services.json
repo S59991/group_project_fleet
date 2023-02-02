@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9380716666",
+    "project_id": "fleet-management-c0cfa",
+    "storage_bucket": "fleet-management-c0cfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9380716666:android:c37eaa1cac6677000b1bc3",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9380716666-3incod2c6bdfcoibnbd2kcrrrs39kgrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC3u9hljXfH7R31u9T4Vn_ivcy8Nw-R1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9380716666-3incod2c6bdfcoibnbd2kcrrrs39kgrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
